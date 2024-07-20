@@ -1,4 +1,4 @@
-name: 01. Development Environment
+name: 00. Gradle
 on: 
   pull_request:
     branches:
