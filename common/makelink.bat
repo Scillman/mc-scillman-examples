@@ -10,4 +10,5 @@ mklink wrapper\gradle-wrapper.properties %COMMON_DIR%\wrapper\gradle-wrapper.pro
 mklink build.gradle %COMMON_DIR%\build.gradle
 mklink gradle.properties %COMMON_DIR%\gradle.properties
 mklink gradlew %COMMON_DIR%\gradlew
+mklink gradlew.bat %COMMON_DIR%\gradlew.bat
 mklink settings.gradle %COMMON_DIR%\settings.gradle
